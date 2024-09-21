@@ -10,7 +10,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import lombok.Getter;
 import lombok.Setter;
-
+//entidad que representa la inscripcion de un alumno a un curso
 @Getter @Setter
 @Entity
 public class Inscripcion {
